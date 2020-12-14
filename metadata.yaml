@@ -1,6 +1,9 @@
 _repo: Severn-Somme_63895
 _version: 0.1.0
 alternative_title: Severn and Somme
+covers:
+- cover_type: archival
+  image_path: 63895-h/images/cover.jpg
 creator:
   author:
     agent_name: Gurney, Ivor
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52649
     wikipedia: https://en.wikipedia.org/wiki/Ivor_Gurney
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63895#Severn-Somme
 gutenberg_issued: '2020-11-27'
 gutenberg_type: Text
 identifiers:
